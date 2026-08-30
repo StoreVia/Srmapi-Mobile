@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "5.0.1",
-    "build": 5,
+    "version": "5.0.2",
+    "build": 6,
     "apk_url": "https://github.com/StoreVia/Srmapi-Mobile/releases/download/v5.0.1/app-release.apk",
     "release_url": "https://github.com/StoreVia/Srmapi-Mobile/releases/tag/v5.0.1",
-    "changelog": "Fixed logout and relogin popup's.",
+    "changelog": "Fixed update page and few ui fixes.",
     "force": false
   }
 }
