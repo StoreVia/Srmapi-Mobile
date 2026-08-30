@@ -1,0 +1,10 @@
+{
+  "android": {
+    "version": "5.0.0",
+    "build": 4,
+    "apk_url": "https://github.com/StoreVia/Srmapi-Mobile/releases/download/v5.0.0/app-release.apk",
+    "release_url": "https://github.com/StoreVia/Srmapi-Mobile/releases/tag/v5.0.0",
+    "changelog": "Initial Release Of SRMAPI Stable App.",
+    "force": false
+  }
+}
